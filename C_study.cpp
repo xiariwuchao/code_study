@@ -1,3 +1,5 @@
+//计算时间差
+/*
 #include<stdio.h>
 int main()
 {
@@ -13,13 +15,5 @@ int t = t2 - t1;
 
 printf("%d,%d",t/60,t%60);
     return 0;
-
-
-
-
-
-
-
-
-
 }
+*/    
